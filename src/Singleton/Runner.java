@@ -1,5 +1,7 @@
 package Singleton;
 
+import java.util.logging.Logger;
+
 public class Runner {
     static <E> boolean areObjEqual( E obj1 , E obj2){
         /*
@@ -9,7 +11,10 @@ public class Runner {
 
         return  obj1==obj2;
     }
+
+    public static  Logger logger= Logger.getLogger(Runner.class.getName());
     public static void main(String[] args) {
+
         /*
         * This class contains the driver code for trying out  singleton classes
         * */
