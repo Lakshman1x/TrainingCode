@@ -1,0 +1,8 @@
+2024-04-02 11:45:22,445 - Main [main] - (INFO) this is an info log 
+2024-04-02 11:45:22,449 - Main [main] - (ERROR) this is an error log 
+2024-04-02 11:45:22,449 - Main [main] - (DEBUG) this is a debugging log 
+2024-04-02 11:45:22,449 - Main [main] - (FATAL) this is a fatal log 
+2024-04-02 11:48:23,250 - Main [main] - (INFO) this is an info log 
+2024-04-02 11:48:23,254 - Main [main] - (ERROR) this is an error log 
+2024-04-02 11:48:23,254 - Main [main] - (DEBUG) this is a debugging log 
+2024-04-02 11:48:23,254 - Main [main] - (FATAL) this is a fatal log 

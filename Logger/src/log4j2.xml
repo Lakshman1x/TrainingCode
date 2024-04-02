@@ -5,7 +5,7 @@
                 <Pattern>%d - %C [%M] - (%p) %m %n</Pattern>
             </PatternLayout>
         </Console>
-        <File name="Logging file" fileName="logs/myapp.log">
+        <File name="Logging file" fileName="Logger/logs/myapp.log">
             <PatternLayout>
                 <Pattern>%d - %C [%M] - (%p) %m %n</Pattern>
             </PatternLayout>
